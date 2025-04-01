@@ -7,7 +7,8 @@
 //* 📌 Compilar significa convertir el código fuente escrito por un programador en un formato que
 //* la computadora pueda ejecutar directamente.
 // En los lenguajes tradicionales como C++ o Java, la compilación ocurre antes de ejecutar el programa.
-// Sin embargo, JavaScript históricamente se consideraba un lenguaje interpretado, lo que significa que su código se ejecutaba línea por línea sin necesidad de una compilación previa.
+// Sin embargo, JavaScript históricamente se consideraba un lenguaje interpretado, lo que significa
+// que su código se ejecutaba línea por línea sin necesidad de una compilación previa.
 
 
 //! 🔹 Compilación Just-In-Time (JIT) en JavaScript
