@@ -4,10 +4,13 @@
 Los módulos en Node.js son una forma de estructurar y organizar el código. Permiten dividirlo en piezas reutilizables 
 que pueden ser importadas y exportadas entre diferentes archivos.
 
+Es decir, Modules es un patrón de diseño.
+
+----------------------------------------------------------------------------
+
 Node.js admite dos sistemas de módulos: CommonJS y ESM (ECMAScript Modules).
 
 
-  
 !🔹 1. CommonJS (CJS)
 CommonJS es el sistema de módulos tradicional que se usa en Node.js desde sus primeros días. Funciona de la siguiente manera:
 
