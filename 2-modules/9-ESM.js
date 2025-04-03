@@ -19,7 +19,7 @@
 
 
 // *Asíncrono: 
-// import es asíncrono, lo que significa que permite optimizaciones como la carga diferida.
+// import es asíncrono, lo que significa que //? permite optimizaciones como la carga diferida.
 
   
 // *Soporte para importación/ exportación dinámica: 

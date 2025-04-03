@@ -17,7 +17,8 @@
 // ------------------------------------------------------------------
 
 // Es decir, tenemos dos entornos de ejecución, uno el navegaor y otro el servidor,
-// en JS tenemos la variable globalThis, en el navegador se interpreta como window y en el servidor como global.
+// en JS tenemos la variable //* globalThis,
+// en el navegador se interpreta como window y en el servidor como global.
 
 // De hecho, muchas de las herramientas que usamos (fetch, console...) son propiedades de globalthis: globalThis.console.log("hola")
 

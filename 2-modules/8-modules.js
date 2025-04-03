@@ -42,7 +42,7 @@
 // console.log(unSaludoMiGente)
 
 // ------------------------------------------------------------------------------------------------
-// Para "obligar" a conservar el nombrem podemos pasarlo como un objeto y al importartlo hacer destructuring
+//* Para "obligar" a conservar el nombrem podemos pasarlo como un objeto y al importartlo hacer destructuring
 // ejemplo.js
 // const saludo = "Hola, mundo!";
 // module.exports = {
