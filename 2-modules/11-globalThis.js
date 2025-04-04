@@ -52,8 +52,5 @@ console.log(globalThis.despedirse); // undefined
 //! 💡 ¿Por qué esto es importante?
 //* Si declaras algo sin let o const, lo estás haciendo global sin querer, lo que puede generar errores.
 
-//* Es una mala práctica modificar el objeto global, porque puede causar colisiones de nombres en aplicaciones grandes.
+//! Es una mala práctica modificar el objeto global, porque puede causar colisiones de nombres en aplicaciones grandes.
 
-//! 🚀 Conclusión
-// ✔ Usa let y const para evitar añadir cosas al objeto global.
-// ✔ Solo usa globalThis si realmente necesitas una variable accesible en cualquier parte del código.
