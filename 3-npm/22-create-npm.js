@@ -65,7 +65,7 @@ let ejemploPackage = {
   "files": [
     "dist-node",
     "dist-browser",
-    "src",
+    "src", //! si no queremos subir el código fuente elimninamos de aquí src
     "README.md"
   ]
 }
