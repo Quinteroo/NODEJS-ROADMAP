@@ -4,8 +4,7 @@
 
 //! EL MOTOR V8 DE GOOGLE EN NODE.JS
 // - V8 es el motor de JavaScript desarrollado por Google que //* ejecuta el código JS en Google Chrome y en Node.js (desde 2009).
-// - Es independiente del navegador, lo que permitió la creación de Node.js
-// y otras tecnologías como Electron.
+// - Es independiente del navegador, lo que permitió la creación de Node.js y otras tecnologías como Electron.
 // - Todos los motores siguen el //* estándar ECMAScript (ES-262).
 //* - V8 está escrito en C++, es portable y optimizado para rendimiento.
 

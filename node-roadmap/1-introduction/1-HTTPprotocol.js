@@ -6,7 +6,7 @@
 // que permite la transferencia de información en la web.
 // //* es la base de la comunicación en Internet
 
-// Sirve para que un navegador y un servidor web intercambien datos (como páginas HTML, imágenes, videos, etc.).
+//? Sirve para que un navegador y un servidor web intercambien datos (como páginas HTML, imágenes, videos, etc.).
 
 // > Cuando el navegador hace la petición se llama //? Request
 // > Cuando el servidor responde se conoce como //? Response
