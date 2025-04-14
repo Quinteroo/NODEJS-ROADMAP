@@ -2,7 +2,7 @@
 
 
 // ! VARIABLE GLOBAL
-// es una variable que contiene todas las funciones, objetos, variables... de nuestra aplicación.
+//? es una variable que contiene todas las funciones, objetos, variables... de nuestra aplicación.
 
 // En Node.js, la palabra clave global hace referencia a un objeto que contiene todas las variables, funciones y
 // objetos disponibles en todo el entorno de ejecución de Node.js.

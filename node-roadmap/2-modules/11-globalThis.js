@@ -5,6 +5,7 @@
 //! GLOBALTHIS
 //? 📌 globalThis → Es un estándar moderno de JavaScript que apunta al objeto global independientemente 
 //? de dónde se ejecute el código. Funciona tanto en el navegador como en Node.js.
+//? es una variable que contiene todas las funciones, objetos, variables... de nuestra aplicación.
 
 //? 📌 window → Es el objeto global en los navegadores. Contiene funciones como alert(), document, console, etc.
 
