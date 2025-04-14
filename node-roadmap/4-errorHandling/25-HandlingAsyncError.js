@@ -1,7 +1,7 @@
 
 
 
-//! HANDLING ASYN ERROR
+//! HANDLING ASYNC ERROR
 //? Manejar errores en código asíncrono. En callbacks, promesas o async/await, los errores 
 //? no se manejan igual que en código sincrónico.
 

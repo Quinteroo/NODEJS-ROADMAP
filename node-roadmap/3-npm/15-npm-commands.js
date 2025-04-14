@@ -15,12 +15,6 @@
 // porque está instalando las dependencias necesarias para el funcionamiento de npm y cualquier
 // posible configuración predeterminada del proyecto, incluso si no has especificado paquetes explícitos.
 
-// Los paquetes que instalas con npm install se colocan dentro de la carpeta node_modules.
-// Esta carpeta es donde npm guarda todas las dependencias que se necesitan para tu proyecto..
-
-//? Los módulos nativos de Node.js, como http, fs, path, etc., no se encuentran dentro de la carpeta node_modules.
-// Estos módulos forman parte de la instalación de Node.js y están disponibles de manera
-// predeterminada cuando instalas Node.js en tu sistema.
 
 //* 4. npm install <paquete>
 // - Instala un paquete y lo agrega a las dependencias.

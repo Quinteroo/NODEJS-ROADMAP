@@ -4,7 +4,7 @@
 
 
 // !setTimeout
-// setTimeout sirve para ejecutar una función **una sola vez después de un cierto retraso** (en milisegundos).
+// setTimeout sirve para ejecutar una función una sola vez después de un cierto retraso (en milisegundos).
 
 //* Sintaxis:
 setTimeout(función, tiempoEnMilisegundos);
@@ -20,8 +20,8 @@ setTimeout(() => {
 
 
 
-// !setInterva
-// setInterval ejecuta una función **de forma repetida cada cierto intervalo de tiempo** (en milisegundos), hasta que se detenga manualmente.
+// !setInterval
+// setInterval ejecuta una función de forma repetida cada cierto intervalo de tiempo (en milisegundos), hasta que se detenga manualmente.
 
 //* Sintaxis:
 setInterval(función, tiempoEnMilisegundos);

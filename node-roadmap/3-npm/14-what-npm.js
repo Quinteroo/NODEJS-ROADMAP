@@ -19,7 +19,12 @@
 // - Gestión de proyectos monorepo: Permite manejar múltiples paquetes dentro de un solo repositorio con npm workspaces.
 // - Compatible con npx: Ejecuta paquetes sin necesidad de instalarlos globalmente.
 
+// Los paquetes que instalas con npm install se colocan dentro de la carpeta node_modules.
+// Esta carpeta es donde npm guarda todas las dependencias que se necesitan para tu proyecto..
 
+//? Los módulos nativos de Node.js, como http, fs, path, etc., no se encuentran dentro de la carpeta node_modules.
+// Estos módulos forman parte de la instalación de Node.js y están disponibles de manera
+// predeterminada cuando instalas Node.js en tu sistema.
 
 //! Ejemplo básico de uso de npm
 //* 1. Inicializar un proyecto con npm

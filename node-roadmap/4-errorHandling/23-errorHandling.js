@@ -19,7 +19,7 @@
 //? el lenguaje controle por sí solo.
 //? Es parte fundamental del diseño y la escritura del código.
 
-// * Incluir buen manejo de errores significa:
+//! Incluir buen manejo de errores significa:
 // - Anticipar qué cosas pueden fallar.
 // - Escribir código que lo detecte y responda de forma útil.
 // - Asegurar que el programa no se caiga innecesariamente.
