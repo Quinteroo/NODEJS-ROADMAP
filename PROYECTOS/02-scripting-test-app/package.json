@@ -1,0 +1,17 @@
+{
+  "name": "02-scripting-test-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "pdf":"node src/pdf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
