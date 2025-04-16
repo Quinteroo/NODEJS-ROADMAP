@@ -2,6 +2,7 @@
 
 
 //! PROMISES
+//* objetos que representan el resultado futuro de una operación asíncrona.
 //? Una Promise es un objeto que representa un valor que puede estar disponible ahora, en el futuro, o nunca. 
 //? Se usa para manejar código asíncrono de una forma más limpia que los callbacks.
 

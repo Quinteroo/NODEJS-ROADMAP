@@ -6,28 +6,25 @@
 
 
 // ! Qué es el Event Loop en Node.js
-
 // El Event Loop (bucle de eventos) es el mecanismo central de Node.js que se encarga de gestionar la ejecución de 
 // código, eventos y tareas asíncronas.
 
-// Dado que Node.js es single-threaded (usa un solo hilo de ejecución), no puede hacer varias cosas exactamente al mismo 
-// tiempo como lo haría un programa multihilo. Pero gracias al Event Loop, puede manejar múltiples operaciones simultáneamente 
-// de manera no bloqueante.
+//* Dado que Node.js es single-threaded (usa un solo hilo de ejecución), no puede hacer varias cosas exactamente al mismo 
+//* tiempo como lo haría un programa multihilo. Pero gracias al Event Loop, puede manejar múltiples operaciones simultáneamente 
+//* de manera no bloqueante.
 
-// ---
+
 
 // ! Cómo funciona (idea general)
-
 // 1. Node.js ejecuta el código sincrónico (funciones normales).
 // 2. Cuando encuentra una operación asíncrona (como un `setTimeout`, una lectura de archivo o una petición HTTP), la delega al 
 // sistema (libuv, que es la capa que maneja operaciones del sistema).
 // 3. Cuando esa operación termina, se guarda una función (callback) que debe ejecutarse.
 // 4. El Event Loop va revisando si hay callbacks pendientes, y cuando puede, los ejecuta uno a uno.
 
-// ---
+
 
 // ! Etapas principales del Event Loop
-
 // El Event Loop tiene fases. Las más comunes:
 
 // - Timers: Aquí se ejecutan los callbacks de `setTimeout` y `setInterval` cuando ha pasado el tiempo.
@@ -40,7 +37,7 @@
 // Además, entre fase y fase, se pueden ejecutar funciones registradas con `process.nextTick()` o con promesas (`.then()`), que 
 // tienen prioridad y se ejecutan antes que otras cosas.
 
-// ---
+
 
 // ! Ejemplo visual
 
@@ -77,7 +74,7 @@ setTimeout
 setImmediate
 ```
 
-// ---
+
 
 // ! En resumen
 
