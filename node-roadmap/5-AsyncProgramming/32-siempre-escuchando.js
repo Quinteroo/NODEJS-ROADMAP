@@ -55,7 +55,7 @@ server.listen(3000, () => {
 const server1 = new EventEmitter();
 
 
-// Cuando alguien entra a `localhost:3000`, se emite un evento `'request'`, y el callback que tú defines se ejecuta.
+//? Cuando alguien entra a `localhost:3000`, se emite un evento `'request'`, y el callback que tú defines se ejecuta.
 
 
 
