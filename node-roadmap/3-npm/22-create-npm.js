@@ -14,8 +14,7 @@
 7.1 // hacemos los build del proyecto por si tenemos que generar un DIST para un developer que trabaje solo en JS (por ejemplo)
 8. // creamos y definimos el README
 9. // .gitignore con node_modules dist-node dist-browser
-10. // subimos repositorio a github
-11. // revisamos y completamos el package.json
+10. // revisamos y completamos el package.json
 
 
 let ejemploPackage = {
@@ -71,6 +70,7 @@ let ejemploPackage = {
 }
 
 
+11. // subimos repositorio a github
 12. // hacemos login //* npm login
 13. //* - npm publish --acces public   <--- de esta manera publica el paquete para todos y no de manera privada
 

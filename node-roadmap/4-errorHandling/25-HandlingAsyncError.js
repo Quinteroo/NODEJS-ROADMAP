@@ -6,11 +6,19 @@
 //? no se manejan igual que en código sincrónico.
 
 
+
+//!En callbacks 
+//siempre debes pasar el error como primer argumento:
+fs.readFile('file.txt', (err, data) => {
+  if (err) return console.error(err);
+});
+
+
+
 //! Con promesas:
 doSomething()
   .then(result => console.log(result))
   .catch(err => console.error('Error:', err));
-
 
 
 //! Con async/await:
@@ -21,8 +29,4 @@ try {
 }
 
 
-//!En callbacks 
-//siempre debes pasar el error como primer argumento:
-fs.readFile('file.txt', (err, data) => {
-  if (err) return console.error(err);
-});
+

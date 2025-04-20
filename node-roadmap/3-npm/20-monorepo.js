@@ -5,7 +5,7 @@
 //! QUÉ ES UN MONOREPO
 
 //? Un monorepo (abreviación de "monolithic repository") es un único repositorio de código que contiene
-// múltiples proyectos o paquetes relacionados entre sí, en lugar de tener un repositorio independiente para cada uno.
+//? múltiples proyectos o paquetes relacionados entre sí, en lugar de tener un repositorio independiente para cada uno.
 
 // Por ejemplo, imagina una empresa que tiene:
 

@@ -11,7 +11,7 @@
 
 // ! Qué es un EventEmitter
 //? Un EventEmitter es una clase que forma parte del módulo `events` de Node.js. Puedes crear instancias de 
-// esta clase para que tus objetos:
+//? esta clase para que tus objetos:
 
 //* - emitan eventos (`emit`)
 //* - escuchen eventos (`on` o `once`)
