@@ -36,4 +36,6 @@ async function procesarFacturas() {
   console.log("✅ Archivo JSON creado correctamente.");
 }
 
-procesarFacturas();
+module.exports = {
+  procesarFacturas
+} 
