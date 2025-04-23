@@ -13,7 +13,7 @@ async function crearCsv(){
       strToCsv += `${key},`
     }
     
-    strToCsv = strToCsv.slice(0,strToCsv.length -1)
+    strToCsv = strToCsv.slice(0,strToCsv.length -1) // quitar la última coma
     
     strToCsv += "\n"
     
