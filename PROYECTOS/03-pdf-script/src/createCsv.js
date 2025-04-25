@@ -18,7 +18,7 @@ async function crearCsv() {
     strToCsv += "\n"
 
     for (const factura of facturas) {
-      strToCsv += `${factura.invoice},${factura.date},${factura.idReservation},${factura.total}`
+      strToCsv += `${factura.invoice},${factura.date},${factura.idReservation},${factura.paymentMethod},${factura.totalPayment},${factura.extrasMethod},${factura.extrasPayment},${factura.totalReservation}`
       strToCsv += "\n"
     }
 
