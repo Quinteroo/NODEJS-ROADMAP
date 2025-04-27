@@ -1,6 +1,6 @@
 
 
-
+//? hola desde el ordenador de raqui
 //! QUÉ ES NPM
 // npm (Node Package Manager) es el gestor de paquetes de Node.js. Se utiliza para instalar,
 // administrar y compartir paquetes (bibliotecas, herramientas, frameworks) que facilitan el
