@@ -1,0 +1,1212 @@
+[
+  {
+    "invoice": "216-2025",
+    "date": "01 Mar 2025",
+    "idReservation": "BDC-4970003267",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1147.5,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1147.5
+  },
+  {
+    "invoice": "217-2025",
+    "date": "01 Mar 2025",
+    "idReservation": "BDC-4884115210",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 740,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 740
+  },
+  {
+    "invoice": "218-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4499549125",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 751.68,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 751.68
+  },
+  {
+    "invoice": "219-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4972005523",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 958.5,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 958.5
+  },
+  {
+    "invoice": "220-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4761365552",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 448.2,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 448.2
+  },
+  {
+    "invoice": "221-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4445888241",
+    "paymentMethod": "Visa",
+    "totalPayment": 50,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 507.87,
+    "totalReservation": 557.87
+  },
+  {
+    "invoice": "222-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4660152642",
+    "paymentMethod": "Visa",
+    "totalPayment": 7.2,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 463.14,
+    "totalReservation": 470.34
+  },
+  {
+    "invoice": "223-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4698446102",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 681.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 681.3
+  },
+  {
+    "invoice": "224-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4312032801",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 332.59,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 332.59
+  },
+  {
+    "invoice": "225-2025",
+    "date": "02 Mar 2025",
+    "idReservation": "BDC-4359085317",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 385.2,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 385.2
+  },
+  {
+    "invoice": "227-2025",
+    "date": "03 Mar 2025",
+    "idReservation": "BDC-4517369226",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1905.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1905.3
+  },
+  {
+    "invoice": "228-2025",
+    "date": "03 Mar 2025",
+    "idReservation": "BDC-4712108087",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1076.4,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1076.4
+  },
+  {
+    "invoice": "243-2025",
+    "date": "08 Mar 2025",
+    "idReservation": "BDC-4310009496",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 774.36,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 774.36
+  },
+  {
+    "invoice": "244-2025",
+    "date": "08 Mar 2025",
+    "idReservation": "BDC-4655310448",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1166,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1166
+  },
+  {
+    "invoice": "245-2025",
+    "date": "08 Mar 2025",
+    "idReservation": "GCC-0816901221-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 595,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 595
+  },
+  {
+    "invoice": "246-2025",
+    "date": "08 Mar 2025",
+    "idReservation": "LH25030846597038",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 242.19,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 242.19
+  },
+  {
+    "invoice": "247-2025",
+    "date": "09 Mar 2025",
+    "idReservation": "BDC-4502643502",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 215.1,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 215.1
+  },
+  {
+    "invoice": "248-2025",
+    "date": "09 Mar 2025",
+    "idReservation": "BDC-4545735322",
+    "paymentMethod": "Visa",
+    "totalPayment": 7,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1931.2
+  },
+  {
+    "invoice": "249-2025",
+    "date": "09 Mar 2025",
+    "idReservation": "GCC-0816901258-169",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 1372.44,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1372.44
+  },
+  {
+    "invoice": "250-2025",
+    "date": "09 Mar 2025",
+    "idReservation": "EXP-X-415974750",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 954.2,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 954.2
+  },
+  {
+    "invoice": "251-2025",
+    "date": "09 Mar 2025",
+    "idReservation": "BDC-4405874974",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 564.57,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 564.57
+  },
+  {
+    "invoice": "252-2025",
+    "date": "09 Mar 2025",
+    "idReservation": "GCC-0816901232-169",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 588.68,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 590.68
+  },
+  {
+    "invoice": "253-2025",
+    "date": "10 Mar 2025",
+    "idReservation": "BDC-4437408042",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 605.07,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 605.07
+  },
+  {
+    "invoice": "254-2025",
+    "date": "10 Mar 2025",
+    "idReservation": "BDC-4686137530",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 834.3,
+    "extrasMethod": "Maestro",
+    "extrasPayment": 15,
+    "totalReservation": 849.3
+  },
+  {
+    "invoice": "255-2025",
+    "date": "10 Mar 2025",
+    "idReservation": "BDC-4582815530",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 556.47,
+    "extrasMethod": "American Express",
+    "extrasPayment": 10,
+    "totalReservation": 566.47
+  },
+  {
+    "invoice": "256-2025",
+    "date": "10 Mar 2025",
+    "idReservation": "BDC-4818577806",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 969.3,
+    "extrasMethod": "Mastercard",
+    "extrasPayment": 28,
+    "totalReservation": 997.3
+  },
+  {
+    "invoice": "257-2025",
+    "date": "10 Mar 2025",
+    "idReservation": "GCC-0816901261-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 490.74,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 490.74
+  },
+  {
+    "invoice": "258-2025",
+    "date": "11 Mar 2025",
+    "idReservation": "GCC-0816901182-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 833.6,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 833.6
+  },
+  {
+    "invoice": "259-2025",
+    "date": "11 Mar 2025",
+    "idReservation": "GCC-0816901262-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 182.84,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 182.84
+  },
+  {
+    "invoice": "260-2025",
+    "date": "11 Mar 2025",
+    "idReservation": "GCC-0816901263-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 147.83,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 147.83
+  },
+  {
+    "invoice": "261-2025",
+    "date": "11 Mar 2025",
+    "idReservation": "BDC-4824017909",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 427.68,
+    "extrasMethod": "Mastercard",
+    "extrasPayment": 9.8,
+    "totalReservation": 437.48
+  },
+  {
+    "invoice": "262-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "BDC-4795894871",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 479.67,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 479.67
+  },
+  {
+    "invoice": "263-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "BDC-4773800414",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 479.67,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 479.67
+  },
+  {
+    "invoice": "264-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "GCC-0816901264-169",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 268.66,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 268.66
+  },
+  {
+    "invoice": "265-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "GCC-0816901191-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 473.85,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 473.85
+  },
+  {
+    "invoice": "266-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "GCC-0816901192-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 405.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 405.3
+  },
+  {
+    "invoice": "267-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "GCC-0816901265-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 363.16,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 363.16
+  },
+  {
+    "invoice": "268-2025",
+    "date": "12 Mar 2025",
+    "idReservation": "LH25031246691692",
+    "paymentMethod": "Visa",
+    "totalPayment": 188.32,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 188.32
+  },
+  {
+    "invoice": "269-2025",
+    "date": "13 Mar 2025",
+    "idReservation": "BDC-4945650939",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 795.6,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 795.6
+  },
+  {
+    "invoice": "270-2025",
+    "date": "14 Mar 2025",
+    "idReservation": "BDC-4440838554",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 670.16,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 670.16
+  },
+  {
+    "invoice": "271-2025",
+    "date": "15 Mar 2025",
+    "idReservation": "BDC-4764725615",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 580.77,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 580.77
+  },
+  {
+    "invoice": "272-2025",
+    "date": "15 Mar 2025",
+    "idReservation": "BDC-4569461570",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1766.7,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1766.7
+  },
+  {
+    "invoice": "273-2025",
+    "date": "15 Mar 2025",
+    "idReservation": "BDC-4309178794",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 556.47,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 556.47
+  },
+  {
+    "invoice": "274-2025",
+    "date": "15 Mar 2025",
+    "idReservation": "LH25031246682714",
+    "paymentMethod": "Visa",
+    "totalPayment": 191,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 191
+  },
+  {
+    "invoice": "275-2025",
+    "date": "16 Mar 2025",
+    "idReservation": "BDC-4540911789",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 870.08,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 870.08
+  },
+  {
+    "invoice": "276-2025",
+    "date": "16 Mar 2025",
+    "idReservation": "BDC-4748305428",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 380.96,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 380.96
+  },
+  {
+    "invoice": "277-2025",
+    "date": "16 Mar 2025",
+    "idReservation": "N/A",
+    "paymentMethod": "Visa",
+    "totalPayment": 475.56,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 475.56
+  },
+  {
+    "invoice": "278-2025",
+    "date": "16 Mar 2025",
+    "idReservation": "LH25020345872395",
+    "paymentMethod": "Visa",
+    "totalPayment": 685.5,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 685.5
+  },
+  {
+    "invoice": "279-2025",
+    "date": "16 Mar 2025",
+    "idReservation": "GCC-0816901274-169",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 572.23,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 572.23
+  },
+  {
+    "invoice": "280-2025",
+    "date": "17 Mar 2025",
+    "idReservation": "BDC-4360390166",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 556.47,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 556.47
+  },
+  {
+    "invoice": "281-2025",
+    "date": "17 Mar 2025",
+    "idReservation": "BDC-4846264731",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 198.14,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 198.14
+  },
+  {
+    "invoice": "282-2025",
+    "date": "17 Mar 2025",
+    "idReservation": "BDC-4669657254",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 799.34,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 799.34
+  },
+  {
+    "invoice": "283-2025",
+    "date": "17 Mar 2025",
+    "idReservation": "BDC-4868252018",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 403.2,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 403.2
+  },
+  {
+    "invoice": "284-2025",
+    "date": "17 Mar 2025",
+    "idReservation": "LH24122845111525",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 802.95,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 802.95
+  },
+  {
+    "invoice": "285-2025",
+    "date": "17 Mar 2025",
+    "idReservation": "EXP-X-401836743",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 362.62,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 362.62
+  },
+  {
+    "invoice": "286-2025",
+    "date": "18 Mar 2025",
+    "idReservation": "BDC-4649904626",
+    "paymentMethod": "Visa",
+    "totalPayment": 12,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1236
+  },
+  {
+    "invoice": "287-2025",
+    "date": "18 Mar 2025",
+    "idReservation": "BDC-4860839490",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 175.19,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 175.19
+  },
+  {
+    "invoice": "288-2025",
+    "date": "18 Mar 2025",
+    "idReservation": "BDC-4757872145",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1757.7,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1757.7
+  },
+  {
+    "invoice": "289-2025",
+    "date": "18 Mar 2025",
+    "idReservation": "GCC-0816901279-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 573.75,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 573.75
+  },
+  {
+    "invoice": "290-2025",
+    "date": "18 Mar 2025",
+    "idReservation": "GCC-0816901281-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 549.28,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 549.28
+  },
+  {
+    "invoice": "291-2025",
+    "date": "19 Mar 2025",
+    "idReservation": "BDC-4531633714",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 927.45,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 927.45
+  },
+  {
+    "invoice": "292-2025",
+    "date": "20 Mar 2025",
+    "idReservation": "BDC-4468804312",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 435.78,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 435.78
+  },
+  {
+    "invoice": "293-2025",
+    "date": "20 Mar 2025",
+    "idReservation": "BDC-4881611092",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 423.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 423.3
+  },
+  {
+    "invoice": "294-2025",
+    "date": "20 Mar 2025",
+    "idReservation": "BDC-4950439239",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 22,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 1360,
+    "totalReservation": 1382
+  },
+  {
+    "invoice": "295-2025",
+    "date": "20 Mar 2025",
+    "idReservation": "EXP-X-338884316",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 686.37,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 686.37
+  },
+  {
+    "invoice": "296-2025",
+    "date": "21 Mar 2025",
+    "idReservation": "N/A",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 972.32,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 972.32
+  },
+  {
+    "invoice": "297-2025",
+    "date": "21 Mar 2025",
+    "idReservation": "BDC-4911815509",
+    "paymentMethod": "Visa",
+    "totalPayment": 54,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1344.6
+  },
+  {
+    "invoice": "298-2025",
+    "date": "21 Mar 2025",
+    "idReservation": "BDC-4352356440",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 792.56,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 792.56
+  },
+  {
+    "invoice": "299-2025",
+    "date": "21 Mar 2025",
+    "idReservation": "BDC-4615122610",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 621.27,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 621.27
+  },
+  {
+    "invoice": "300-2025",
+    "date": "22 Mar 2025",
+    "idReservation": "GCC-0816901289-169",
+    "paymentMethod": "Visa",
+    "totalPayment": 1883,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1883
+  },
+  {
+    "invoice": "301-2025",
+    "date": "22 Mar 2025",
+    "idReservation": "EXP-X-424289739",
+    "paymentMethod": "American Express",
+    "totalPayment": 538.2,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 538.2
+  },
+  {
+    "invoice": "302-2025",
+    "date": "22 Mar 2025",
+    "idReservation": "BDC-4399357927",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1419.93,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1419.93
+  },
+  {
+    "invoice": "303-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4306520765",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 30,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 637.47,
+    "totalReservation": 667.47
+  },
+  {
+    "invoice": "304-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4390843827",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 451.98,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 451.98
+  },
+  {
+    "invoice": "305-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4791953243",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 996.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 996.3
+  },
+  {
+    "invoice": "306-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "GCC-0816901178-169",
+    "paymentMethod": "American Express",
+    "totalPayment": 677.45,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 677.45
+  },
+  {
+    "invoice": "307-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4878871610",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 883.5,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 883.5
+  },
+  {
+    "invoice": "308-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "EXP-X-404822041",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 1173.43,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1173.43
+  },
+  {
+    "invoice": "309-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4511639293",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 621.27,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 621.27
+  },
+  {
+    "invoice": "310-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4454529632",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 621,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 621
+  },
+  {
+    "invoice": "311-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4731222962",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 927.45,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 927.45
+  },
+  {
+    "invoice": "312-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "BDC-4366662057",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 646,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 646
+  },
+  {
+    "invoice": "316-2025",
+    "date": "24 Mar 2025",
+    "idReservation": "LH25032246910122",
+    "paymentMethod": "Visa",
+    "totalPayment": 575.55,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 575.55
+  },
+  {
+    "invoice": "317-2025",
+    "date": "25 Mar 2025",
+    "idReservation": "BDC-4894597009",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 419.58,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 419.58
+  },
+  {
+    "invoice": "318-2025",
+    "date": "25 Mar 2025",
+    "idReservation": "BDC-4417455976",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1227.6,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1227.6
+  },
+  {
+    "invoice": "319-2025",
+    "date": "25 Mar 2025",
+    "idReservation": "BDC-4674796710",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 460.08,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 460.08
+  },
+  {
+    "invoice": "320-2025",
+    "date": "25 Mar 2025",
+    "idReservation": "LH24111744427737",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 861.45,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 861.45
+  },
+  {
+    "invoice": "321-2025",
+    "date": "25 Mar 2025",
+    "idReservation": "N/A",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 204.52,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 204.52
+  },
+  {
+    "invoice": "322-2025",
+    "date": "26 Mar 2025",
+    "idReservation": "BDC-4738116501",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 335.08,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 335.08
+  },
+  {
+    "invoice": "323-2025",
+    "date": "26 Mar 2025",
+    "idReservation": "N/A",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 388.7,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 388.7
+  },
+  {
+    "invoice": "324-2025",
+    "date": "26 Mar 2025",
+    "idReservation": "BDC-4860844896",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 335.08,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 335.08
+  },
+  {
+    "invoice": "325-2025",
+    "date": "26 Mar 2025",
+    "idReservation": "BDC-4496396652",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 543.15,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 543.15
+  },
+  {
+    "invoice": "327-2025",
+    "date": "27 Mar 2025",
+    "idReservation": "BDC-4934825104",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 502.62,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 502.62
+  },
+  {
+    "invoice": "328-2025",
+    "date": "27 Mar 2025",
+    "idReservation": "BDC-4753436152",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 741.96,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 741.96
+  },
+  {
+    "invoice": "329-2025",
+    "date": "27 Mar 2025",
+    "idReservation": "LH25032747013875",
+    "paymentMethod": "BACS",
+    "totalPayment": 303.75,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 303.75
+  },
+  {
+    "invoice": "330-2025",
+    "date": "28 Mar 2025",
+    "idReservation": "BDC-4435973145",
+    "paymentMethod": "Visa",
+    "totalPayment": 13,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 798.07,
+    "totalReservation": 811.07
+  },
+  {
+    "invoice": "331-2025",
+    "date": "28 Mar 2025",
+    "idReservation": "BDC-4891729215",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 16,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 556.47,
+    "totalReservation": 572.47
+  },
+  {
+    "invoice": "332-2025",
+    "date": "28 Mar 2025",
+    "idReservation": "BDC-4353577418",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1040.4,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1040.4
+  },
+  {
+    "invoice": "333-2025",
+    "date": "29 Mar 2025",
+    "idReservation": "BDC-4401435630",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 718.47,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 718.47
+  },
+  {
+    "invoice": "334-2025",
+    "date": "29 Mar 2025",
+    "idReservation": "BDC-4566204160",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1315.86,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1315.86
+  },
+  {
+    "invoice": "335-2025",
+    "date": "29 Mar 2025",
+    "idReservation": "BDC-4750746734",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 968.76,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 968.76
+  },
+  {
+    "invoice": "336-2025",
+    "date": "29 Mar 2025",
+    "idReservation": "BDC-4845391487",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 2850,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 2850
+  },
+  {
+    "invoice": "337-2025",
+    "date": "29 Mar 2025",
+    "idReservation": "BDC-4928000443",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 807.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 807.3
+  },
+  {
+    "invoice": "338-2025",
+    "date": "29 Mar 2025",
+    "idReservation": "BDC-4862089030",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 538.2,
+    "extrasMethod": "Visa",
+    "extrasPayment": 8,
+    "totalReservation": 546.2
+  },
+  {
+    "invoice": "339-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "EXP-X-338395125",
+    "paymentMethod": "Visa",
+    "totalPayment": 500.82,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 500.82
+  },
+  {
+    "invoice": "340-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "LH25030146451301",
+    "paymentMethod": "Visa",
+    "totalPayment": 231.75,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 231.75
+  },
+  {
+    "invoice": "341-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "BDC-4881399364",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 999,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 999
+  },
+  {
+    "invoice": "342-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "LH25030146451439",
+    "paymentMethod": "Visa",
+    "totalPayment": 261.38,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 261.38
+  },
+  {
+    "invoice": "343-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "BDC-4390158944",
+    "paymentMethod": "Visa",
+    "totalPayment": 16,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 233.1,
+    "totalReservation": 252.7
+  },
+  {
+    "invoice": "344-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "BDC-4381633306",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1811.7,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1811.7
+  },
+  {
+    "invoice": "345-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "BDC-4410875815",
+    "paymentMethod": "Visa",
+    "totalPayment": 5,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 476.28,
+    "totalReservation": 481.28
+  },
+  {
+    "invoice": "346-2025",
+    "date": "30 Mar 2025",
+    "idReservation": "LH24120344722134",
+    "paymentMethod": "Visa",
+    "totalPayment": 695.25,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 695.25
+  },
+  {
+    "invoice": "347-2025",
+    "date": "31 Mar 2025",
+    "idReservation": "BDC-4404479042",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 7,
+    "extrasMethod": "Online travel agency",
+    "extrasPayment": 412.2,
+    "totalReservation": 419.2
+  },
+  {
+    "invoice": "348-2025",
+    "date": "31 Mar 2025",
+    "idReservation": "BDC-4749689244",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 945.81,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 945.81
+  },
+  {
+    "invoice": "349-2025",
+    "date": "31 Mar 2025",
+    "idReservation": "BDC-4697484696",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 638,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 638
+  },
+  {
+    "invoice": "350-2025",
+    "date": "01 Apr 2025",
+    "idReservation": "BDC-4422500153",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 927.45,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 927.45
+  },
+  {
+    "invoice": "351-2025",
+    "date": "01 Apr 2025",
+    "idReservation": "BDC-4618685768",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 927.45,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 927.45
+  },
+  {
+    "invoice": "352-2025",
+    "date": "01 Apr 2025",
+    "idReservation": "BDC-4574277855",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 1112.4,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 1112.4
+  },
+  {
+    "invoice": "353-2025",
+    "date": "02 Apr 2025",
+    "idReservation": "BDC-4769104426",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 269.1,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 269.1
+  },
+  {
+    "invoice": "354-2025",
+    "date": "02 Apr 2025",
+    "idReservation": "BDC-4947693237",
+    "paymentMethod": "Online travel agency",
+    "totalPayment": 897.3,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 897.3
+  },
+  {
+    "invoice": "356-2025",
+    "date": "02 Apr 2025",
+    "idReservation": "LH25011745516519",
+    "paymentMethod": "Mastercard",
+    "totalPayment": 335.64,
+    "extrasMethod": "",
+    "extrasPayment": "",
+    "totalReservation": 335.64
+  }
+]

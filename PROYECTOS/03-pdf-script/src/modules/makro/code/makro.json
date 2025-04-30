@@ -1,0 +1,52 @@
+[
+  {
+    "factura": "051-355040",
+    "fechaVenta": "26/12/20",
+    "total": 150.04
+  },
+  {
+    "factura": "051-349734",
+    "fechaVenta": "03/12/20",
+    "total": 99.9
+  },
+  {
+    "factura": "051-349734",
+    "fechaVenta": "03/12/20",
+    "total": 99.9
+  },
+  {
+    "factura": "051-351249",
+    "fechaVenta": "10/12/20",
+    "total": 102.41
+  },
+  {
+    "factura": "051-352039",
+    "fechaVenta": "12/12/20",
+    "total": 125.06
+  },
+  {
+    "factura": "051-353281",
+    "fechaVenta": "18/12/20",
+    "total": 109.85
+  },
+  {
+    "factura": "051-353281",
+    "fechaVenta": "18/12/20",
+    "total": 109.85
+  },
+  {
+    "factura": "051-354059",
+    "fechaVenta": "20/12/20",
+    "total": 190.29
+  },
+  {
+    "factura": "051-355754",
+    "fechaVenta": "28/12/20",
+    "total": 71.75
+  },
+  {
+    "factura": "051-353281",
+    "fechaVenta": "18/12/20",
+    "total": 109.85
+  }
+]

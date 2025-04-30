@@ -1,8 +1,10 @@
 const fs = require("fs/promises");
 const pdf = require("pdf-parse");
 const path = require("path");
+const { crearCsv} = require("../../../utils/createCsv.js")
 
-const docsPath = path.join(__dirname, "./docs");
+
+const docsPath = path.join(__dirname, "../../../docs");
 
 async function procesarFacturas() {
   const pdfs = await fs.readdir(docsPath);
@@ -63,9 +65,14 @@ async function procesarFacturas() {
     }
   }
 
-  await fs.writeFile("facturacion.json", JSON.stringify(info, null, 2));
+  await fs.writeFile("./src/modules/hotel/code/hotel.json", JSON.stringify(info, null, 2));
   console.log("✅ Archivo JSON creado correctamente.");
+
+  await crearCsv("./src/modules/hotel/code/hotel.json", "./src/modules/hotel/result/hotel.csv")
+
 }
+
+procesarFacturas()
 
 module.exports = {
   procesarFacturas
