@@ -6,7 +6,9 @@
     "start": "node src/index.js",
     "makro": "node src/modules/makro/code/makro.js",
     "hotel": "node src/modules/hotel/code/hotel.js",
-    "croissant": "node src/modules/croissant/code/croissant.js"
+    "croissant": "node src/modules/croissant/code/croissant.js",
+    "mercadona": "node src/modules/mercadona/code/mercadona.js"
+
   },
   "keywords": [],
   "author": "",

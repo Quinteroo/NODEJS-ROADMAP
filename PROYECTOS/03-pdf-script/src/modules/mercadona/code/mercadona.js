@@ -22,29 +22,25 @@ async function procesarFacturas() {
       const lines = data.text.split("\n").map(line => line.trim());
       //console.log(lines)
 
-      const facturaLine = lines.find(line => /^ALBARAN/.test(line));
-      // const fechaVentaLine = lines.find(line => line.includes("Fecha de venta"));
-      // const totalAPagarLine = lines.find(line => line.includes("Total a pagar"));
+      const factura = lines.find(line => line.includes("Factura Simplificada:")).replace("Factura Simplificada:", "").trim() || "N/A"
+      const fecha = lines.find(line => line.includes("Fecha Factura:")).match(/(\d{2}\/\d{2}\/\d{4})/)[0].trim() || "N/A";
+      const total = Number(lines.find(line => line.includes("Total Factura")).match(/\d+,\d{2}/)[0].replace(",", ".")) || "N/A";
 
-
-      const factura = facturaLine.match(/.(\d+)FECHA/)[1].replace(".", "").replace("FECHA", "") || "N/A"
-      const fechaVenta = facturaLine.match(/FECHA(\d{2}\/\d{2}\/\d{2})/)[1] || "N/A";
-      //   const total = Number(totalAPagarLine.match(/[\d]+,[\d]{0,2}/)[0].replace(",",".")) || "N/A";
-
+      // console.log(factura)
+      // console.log(fecha)
       // console.log(total)
 
-      info.push({ factura, fechaVenta, total })
-
+      info.push({ factura, fecha, total })
 
     } catch (err) {
       console.error("❌ Error procesando", file, err);
     }
   }
 
-  await fs.writeFile("./src/modules/croissant/code/croissant.json", JSON.stringify(info, null, 2));
+  await fs.writeFile("./src/modules/mercadona/code/mercadona.json", JSON.stringify(info, null, 2));
   console.log("✅ Archivo JSON creado correctamente.");
 
-  await crearCsv("./src/modules/croissant/code/croissant.json", "./src/modules/croissant/result/croissant.csv")
+  await crearCsv("./src/modules/mercadona/code/mercadona.json", "./src/modules/mercadona/result/mercadona.csv")
 }
 
 procesarFacturas()
