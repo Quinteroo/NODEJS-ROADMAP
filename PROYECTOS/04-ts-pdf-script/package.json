@@ -1,19 +1,22 @@
 {
   "name": "04-ts-pdf-script",
   "version": "1.0.0",
-  "type":"module",
-  "main": "src/index.ts",
+  "main": "./dist/index.js",
   "scripts": {
-    "start": "node --loader ts-node/esm src/index.ts"
+    "build": "tsc",
+    "start": "node ./dist/index.js",
+    "makro": "node ./dist/supplier/makro.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@types/node": "^22.15.3",
-    "ts-node": "^10.9.2",
+    "@types/node": "^22.15.17",
     "tslib": "^2.8.1",
     "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
   }
 }
