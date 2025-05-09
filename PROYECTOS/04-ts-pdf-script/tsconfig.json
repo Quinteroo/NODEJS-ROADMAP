@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                    
+    "module": "ES2020",                    
+    "moduleResolution": "node",    
+    "outDir": "./dist",              
+    "rootDir": "./src",              
+    "strict": true,                      
+    "esModuleInterop": true,           
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true              
+  },
+  "include": ["src"]
+}
+
+//! important
+// If you're using "module": "ES2020" and "type": "module", the .js extensions must be included in 
+// your import paths, because Node.js (and the ESM runtime) requires them. Even though the source 
+// files are .ts, the compiled output will be .js.
+
+//* import { crearCsv } from "../../utils/createCsv.js";
