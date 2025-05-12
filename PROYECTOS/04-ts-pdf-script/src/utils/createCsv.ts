@@ -1,7 +1,7 @@
 const fs = require("fs/promises");
 
 
-async function crearCsv(jsonPath, resultPath) {
+async function crearCsv(jsonPath:string, resultPath:string): Promise<void> {
   try {
     const data = await fs.readFile(jsonPath, "utf-8")
 

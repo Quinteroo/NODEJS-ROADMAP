@@ -5,7 +5,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./dist/index.js",
-    "makro": "node ./dist/supplier/makro.js"
+    "makro": "node ./dist/supplier/makro.js",
+    "mercadona": "node ./dist/supplier/mercadona.js"
   },
   "keywords": [],
   "author": "",
