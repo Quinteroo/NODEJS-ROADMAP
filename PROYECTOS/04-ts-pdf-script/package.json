@@ -6,7 +6,8 @@
     "build": "tsc",
     "start": "node ./dist/index.js",
     "makro": "node ./dist/supplier/makro.js",
-    "mercadona": "node ./dist/supplier/mercadona.js"
+    "mercadona": "node ./dist/supplier/mercadona.js",
+    "europastry": "node ./dist/supplier/europastry.js"
   },
   "keywords": [],
   "author": "",
