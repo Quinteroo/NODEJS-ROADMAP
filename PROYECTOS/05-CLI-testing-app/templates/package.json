@@ -1,0 +1,37 @@
+
+
+{
+  "name": "05-cli-testing-app",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "bin": {
+  "procesador-facturas": "./bin/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js",
+    "makro": "node ./dist/supplier/makro.js",
+    "mercadona": "node ./dist/supplier/mercadona.js",
+    "europastry": "node ./dist/supplier/europastry.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "commander": "^13.1.0"
+  },
+  "files": [
+  "bin",
+  "templates",
+  "dist",
+  "readme.md"
+]
+}
+

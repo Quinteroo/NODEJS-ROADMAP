@@ -53,7 +53,7 @@ program.parse(process.argv);
 // 6 damos permisos de ejecución:
 // llegamos desde la terminal hasta la ruta del proyecto
 // ejecutamos:
-// chmod +x bin/cli.js
+// chmod +x bin/cli.js //* chmod es un comando de sistemas Unix/Linux/macOS, 
 
 
 // 7 revisamos que el README con toda la info del proyecto 
@@ -97,3 +97,7 @@ tu-paquete/
   "readme.md"
 ]
 `
+//!Resumen claro:
+//Tu CLI está programado para copiar todo lo que hay en templates/ al ejecutar init.
+//Por tanto, todo lo que quieres que reciba el usuario (como dist, package.json, etc.) 
+//debe estar dentro de esa carpeta templates/.
