@@ -1,6 +1,6 @@
 # INVOICE-EXTRACTOR
 
-(![alt text](image.png))
+![alt text](image.png)
 
 
 
@@ -15,8 +15,12 @@ This project was created with the idea of helping company accounting teams quick
 * It must rename the files using relevant information from the document to allow quick identification.
 * It must extract the information and create a CSV file with it.
 
+## LANGUAGE
+The source code is developed in TypeScript. However, you can modify it as you wish to work with the language you're most comfortable with.
 
-## REQUIEREMENTS
+
+
+## PREREQUISITES AND DEPENDENCIES
 * Node.js >= 16
 * npm >= 
 * fs module
@@ -25,27 +29,44 @@ This project was created with the idea of helping company accounting teams quick
 * @types/node
   
 
-## Installation
+## SET UP
+Setting up a new project is quite simple with the invoice-extractor CLI. With npm installed, you can create a new invoice-extractor project with the following commands in your OS terminal:
+
+>```bash
+>npX nombre-proyecto-cli init
+>
+
 >[!IMPORTANT]
->Para iniciar el proyecto es necesario que su archivo package.json tenga todas las dependencias.
-![image](https://github.com/user-attachments/assets/3c0d471e-1060-46d8-a78a-08253c4362cf)
-
-
-
-
->[!NOTE]
-> do not forget to init project in local
->```js
->npm run dev
+>Don't forget to install your project's dependencies.
+>```bash
+>npm install
 >```
 
 
 
-## SCREENSHOTS
-![image](https://github.com/user-attachments/assets/e47aef32-5dfc-48f7-8e7f-28372f516ad9)
-![image](https://github.com/user-attachments/assets/0230fbc1-dfe4-4043-810e-30ff406a2784)
-![image](https://github.com/user-attachments/assets/c47b465b-5a62-404e-bef1-ea0af92a1746)
-![image](https://github.com/user-attachments/assets/058c2fdc-d213-455b-a0ef-7a4632328a0b)
+## GETTING STARTED
+
+1. Create your project folder and navigate into it.
+
+2. Run the following command:
+
+   > `npx nombre-cli init`
+
+3. Create as many scripts as needed based on the number of vendors you have.
+
+4. Modify the object you’ll pass as an argument according to the invoice’s structure and how the information appears — keep in mind that `pdf-parse` returns the content line by line.
+
+5. Adjust the regex for each value you need to extract.
+
+6. Modify the JSON structure based on the vendor, or add new ones if necessary.
+
+7. Run the script.
+
+## DEMO
+🔗 Check out the demo on my LinkedIn. [LinkedIn](https://www.linkedin.com/posts/tu_usuario/lo-que-sea).
 
 
 
+
+
+### LINKS
