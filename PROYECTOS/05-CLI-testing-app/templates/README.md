@@ -1,6 +1,7 @@
 # INVOICE-EXTRACTOR
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0841c81b-51b9-450e-a9a8-8b19cd21d949)
+
 
 
 
