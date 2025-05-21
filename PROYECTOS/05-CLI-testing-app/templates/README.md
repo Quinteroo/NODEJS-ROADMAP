@@ -1,12 +1,13 @@
 # INVOICE-EXTRACTOR
 
-![image](https://github.com/user-attachments/assets/0841c81b-51b9-450e-a9a8-8b19cd21d949)
+![image](https://github.com/user-attachments/assets/356a7276-4924-4db4-9dd6-e55cd211ebc3)
+
 
 
 
 
 ## INTRODUCTION
-This project was created with the idea of helping company accounting teams quickly extract and export invoice information into a CSV file.
+Helping company accounting teams quickly extract and export information from multiple invoices at once and dump the data into a CSV file.
 
 
 ## PROJECT REQUIREMENTS
@@ -82,6 +83,19 @@ Setting up a new project is quite simple with the invoice-extractor CLI. With np
 
 
 
+## LICENSE
+MIT License
 
+Copyright (C) 2025 Miguel Angel Quintero
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## KEYWORDS
+fs, invoice, pdf-parse, csv, pdf
 
 ### LINKS
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinteroo/)
