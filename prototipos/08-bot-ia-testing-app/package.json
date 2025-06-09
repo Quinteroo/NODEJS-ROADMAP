@@ -1,5 +1,5 @@
 {
-  "name": "07-bot-ia-testing-app",
+  "name": "08-bot-ia-testing-app",
   "version": "1.0.0",
   "main": "./dist/main.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "whatsapp-web.js": "^1.28.0"
   },
   "devDependencies": {
+    "@types/node": "^22.15.30",
     "typescript": "^5.8.3"
   }
 }

@@ -31,10 +31,9 @@ client.once('ready', () => {
 client.on('message', async (message: Message) => {
   const userId = message.from;
   const text = message.body.trim();
-  const state = userStates.get(userId);
-
+  
   // Inicializar estado si no existe par anosobreescribirlo y borrarlo en cada mensjae dej usuario
-  if (!state) {
+  if (!userStates.has(userId)) {
     userStates.set(userId, {
       step: '',
       data: {
@@ -47,7 +46,8 @@ client.on('message', async (message: Message) => {
     });
     return; // salimos hasta el siguiente mensaje
   }
-
+  
+  const state = userStates.get(userId);
 
 
   //SALUDO
@@ -57,7 +57,9 @@ client.on('message', async (message: Message) => {
 
     setTimeout(()=>{
       message.reply(replyCustomer.greeting); //setTimeout es para simular una rspuesta humana, y tzrdar un poco en respuesta
-    },4000)
+    },2000)
+
+    return
   }
 
   //PARKING

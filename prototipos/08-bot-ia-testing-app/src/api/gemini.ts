@@ -1,5 +1,5 @@
 
-
+import { promp } from "./promp";
 
 
 export async function getGeminiResponse(apiKey:string | undefined, messageBody:string) {
@@ -15,7 +15,7 @@ export async function getGeminiResponse(apiKey:string | undefined, messageBody:s
         contents: [
           {
             parts: [
-              { text:"eres un bot de atención al cliente, responde las  y mensajes de una en una, respuestas cortas y directas, sin extenderte demasiado" + messageBody }
+              { text: promp + messageBody }
             ]
           }
         ]
