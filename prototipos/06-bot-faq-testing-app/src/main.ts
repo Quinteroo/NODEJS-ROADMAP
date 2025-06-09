@@ -10,30 +10,24 @@ import { Message } from "whatsapp-web.js";
 
 
 
-// Creamos al cliente de Whatsapp-web
 const client = new Client({
     authStrategy: new LocalAuth()
 });
 
 
-//Controlamos el estado
 const userStates = new Map<string, { step: string, data:any }>();
 
 
-
-// When the client received QR-Code
 client.once('qr', (qr:string) => {
     qrcode.generate(qr, {small: true});
 });
 
 
-// When the client is ready, run this code (only once)
 client.once('ready', () => {
     console.log('Client is ready!');
 });
 
 
-// Listening to all incoming messages
 client.on('message', async (message: Message) => {
   const userId = message.from;
   const text = message.body.trim();
@@ -60,7 +54,10 @@ client.on('message', async (message: Message) => {
   if (checkMessage(text,messagesCustomer.greeting) && state?.data.greeting === '') {
     state.data.greeting = "done"
     userStates.set(userId,state)
-    return message.reply(replyCustomer.greeting);
+
+    setTimeout(()=>{
+      message.reply(replyCustomer.greeting); //setTimeout es para simular una rspuesta humana, y tzrdar un poco en respuesta
+    },4000)
   }
 
   //PARKING
@@ -93,5 +90,6 @@ client.on('message', async (message: Message) => {
 
 });
 
-// Start your client
+
+
 client.initialize();

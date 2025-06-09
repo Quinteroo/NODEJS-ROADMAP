@@ -5,10 +5,8 @@ export const checkMessage = (message:string | null ,array:string[] | null):boole
 
     if(message === null || array === null) return undefined
 
-    let messageSplit:string[] = message.toString().toLowerCase().split(" ")
-
     for (let i = 0; i < array.length; i++) {
-        if(messageSplit.includes(array[i])){
+        if(message.toLowerCase().includes(array[i])){
             return true
         }
     }
