@@ -1,10 +1,11 @@
 {
   "name": "09-api-testing-app",
   "version": "1.0.0",
+  "type": "module",
   "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node .",
+    "start": "node ./dist/index.js",
     "dev": "concurrently \"tsc --watch\" \"nodemon dist/index.js\""
   },
   "keywords": [],

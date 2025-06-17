@@ -1,16 +1,18 @@
 {
   "compilerOptions": {
-    "target": "ES2020",
-    "module": "CommonJS",
-    "moduleResolution": "node",
+    "target": "ES2020",               // Código JS resultante usando características ES2020
+    "module": "ESNext",               // Usa módulos ES (import/export)
+    "moduleResolution": "node",      // Resolver módulos estilo node
     "outDir": "./dist",
     "rootDir": "./src",
     "strict": true,
-    "esModuleInterop": true,
+    "esModuleInterop": true,         // Facilita interoperabilidad CommonJS <-> ESModules
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "declaration": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "isolatedModules": true,          // Recomendado para proyectos ESM
+    "allowSyntheticDefaultImports": true // Permite importar default de CommonJS aunque no tengan export default
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]

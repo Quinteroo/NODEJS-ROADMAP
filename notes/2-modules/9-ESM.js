@@ -16,6 +16,12 @@ export default saludo;
 //  app.mjs
 import saludo from './ejemplo.mjs';
 console.log(saludo); // "Hola, mundo!"
+
+//! cuando usamos ESM los archivos importados neccesitan llevar al final .js
+//! también cuando es TS
+import connectDB from './config/connectDB.js'; // aunque sea .ts en origen, al compilar debe apuntar a .js
+
+
 // Características de ESM:
 
 
